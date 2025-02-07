@@ -3,5 +3,5 @@ namastelon.addEventListener('click',showMsg);
 
 function showMsg()
 {
-    alert("namastelondon");
+    alert("namastelondon")
 }
